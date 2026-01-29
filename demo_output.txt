@@ -1,0 +1,55 @@
+🔐 PASSWORD MANAGER
+
+1. Add Password
+2. View Password
+3. Delete Password
+4. Exit
+Choose option: Invalid option
+
+1. Add Password
+2. View Password
+3. Delete Password
+4. Exit
+Choose option: Invalid option
+
+1. Add Password
+2. View Password
+3. Delete Password
+4. Exit
+Choose option: Invalid option
+
+1. Add Password
+2. View Password
+3. Delete Password
+4. Exit
+Choose option: Invalid option
+
+1. Add Password
+2. View Password
+3. Delete Password
+4. Exit
+Choose option: Invalid option
+
+1. Add Password
+2. View Password
+3. Delete Password
+4. Exit
+Choose option: Invalid option
+
+1. Add Password
+2. View Password
+3. Delete Password
+4. Exit
+Choose option: Invalid option
+
+1. Add Password
+2. View Password
+3. Delete Password
+4. Exit
+Choose option: Invalid option
+
+1. Add Password
+2. View Password
+3. Delete Password
+4. Exit
+Choose option: 
