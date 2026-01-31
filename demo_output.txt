@@ -1,55 +1,55 @@
-🔐 PASSWORD MANAGER
+PASSWORD MANAGER
+Enter Master Password: Lilly@0109
 
 1. Add Password
 2. View Password
 3. Delete Password
 4. Exit
-Choose option: Invalid option
+Choose option: 1
+Website: gmail
+Username: VaishuuD@gmail.com
+Password: Lilly@0109
+Password saved!
 
 1. Add Password
 2. View Password
 3. Delete Password
 4. Exit
-Choose option: Invalid option
+Choose option: 1
+Website: github
+Username: VaishuuDev
+Password: Github@123
+Password saved!
 
 1. Add Password
 2. View Password
 3. Delete Password
 4. Exit
-Choose option: Invalid option
+Choose option: 2
+Website: gmail
+Username: VaishuuD@gmail.com
+Password: Lilly@0109
 
 1. Add Password
 2. View Password
 3. Delete Password
 4. Exit
-Choose option: Invalid option
+Choose option: 2
+Website: github
+Username: VaishuuDev
+Password: Github@123
 
 1. Add Password
 2. View Password
 3. Delete Password
 4. Exit
-Choose option: Invalid option
+Choose option: 3
+Website: gmail
+🗑️ Deleted
 
 1. Add Password
 2. View Password
 3. Delete Password
 4. Exit
-Choose option: Invalid option
-
-1. Add Password
-2. View Password
-3. Delete Password
-4. Exit
-Choose option: Invalid option
-
-1. Add Password
-2. View Password
-3. Delete Password
-4. Exit
-Choose option: Invalid option
-
-1. Add Password
-2. View Password
-3. Delete Password
-4. Exit
-Choose option: 
+Choose option: 4
+Goodbye!!
